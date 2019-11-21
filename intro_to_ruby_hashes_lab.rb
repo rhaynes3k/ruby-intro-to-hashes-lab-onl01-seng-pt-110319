@@ -4,7 +4,7 @@ end
 
 def actor
   h_actor = {
-    name:
+    name: 
   }
 end
 
